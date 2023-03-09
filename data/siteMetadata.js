@@ -8,7 +8,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   email: 'yyx0932@126.com',
-  github: 'https://github.com/qsyp',
+  github: 'https://github.com/Layaster',
   locale: 'zh-CN',
   welcome: '请 保 持 对 生 活 的 敬 畏 之 心 ',
   analytics: {

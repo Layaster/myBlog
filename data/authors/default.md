@@ -3,8 +3,8 @@ name: 拉雅斯特
 avatar: /static/images/avatar.png
 occupation: 前端工程师
 company: Hi! Hope That You Are Well ！
-email: yyx0932@126.com
-github: https://github.com/Layaster'
+email: 风骚
+github: 风骚
 ---
 
 - 闫宇鑫
